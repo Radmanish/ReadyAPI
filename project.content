@@ -1,0 +1,11 @@
+https%3A%2F%2Fwww.test-insurance.com\GetUser.xml
+https%3A%2F%2Fwww.test-insurance.com\createUser.xml
+https%3A%2F%2Fwww.test-insurance.com\updateUser.xml
+https%3A%2F%2Fwww.test-insurance.com\deleteUser.xml
+https%3A%2F%2Fwww.test-insurance.com\payment.xml
+https%3A%2F%2Fwww.test-insurance.com\secondaryUser.xml
+insuranceTestSuite\createUser.xml
+insuranceTestSuite\updateUser.xml
+insuranceTestSuite\deleteUser.xml
+insuranceTestSuite\payment.xml
+insuranceTestSuite\secondaryUser.xml
